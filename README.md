@@ -1,5 +1,5 @@
 # Mint1983.github.io
-```html<!DOCTYPE html>
+html<!DOCTYPE html>
 <html lang="th">
 <head>
     <meta charset="UTF-8">
